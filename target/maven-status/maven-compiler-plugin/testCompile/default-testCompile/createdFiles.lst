@@ -1,0 +1,11 @@
+starter\pages\DirectoryPage.class
+starter\stepdefinitions\OrangehrmStepDefinition.class
+starter\pages\AdminPage.class
+starter\navigation\NavigateTo.class
+starter\pages\PimPage.class
+starter\utility\ExcelReader.class
+starter\CucumberTestSuite.class
+starter\pages\DashboardPage.class
+starter\pages\LoginPage.class
+starter\utility\Elementutil.class
+starter\navigation\OrangeHrmPage.class

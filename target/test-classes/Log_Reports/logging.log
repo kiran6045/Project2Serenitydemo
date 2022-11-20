@@ -1,0 +1,138 @@
+2022-11-08 21:15:17 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:15:17 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:15:18 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:15:19 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:15:19 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:15:20 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:15:22 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:15:23 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:15:23 INFO  Results:27 - Collected Available links
+2022-11-08 21:15:35 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:15:36 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-08 21:15:40 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:15:40 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:15:40 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:15:40 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:15:40 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:15:41 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:15:43 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:15:44 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:15:44 INFO  Results:27 - Collected Available links
+2022-11-08 21:15:55 INFO  Results:33 - Clicked on All the links
+2022-11-08 21:15:55 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:15:55 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-08 21:15:59 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:15:59 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:15:59 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:15:59 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:15:59 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:15:59 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:16:02 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:16:02 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:16:02 INFO  Results:27 - Collected Available links
+2022-11-08 21:16:39 INFO  Results:33 - Clicked on All the links
+2022-11-08 21:16:39 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:16:39 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-08 21:16:43 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:16:43 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:16:43 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:16:43 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:16:43 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:16:43 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:16:48 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:16:48 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:16:48 INFO  Results:27 - Collected Available links
+2022-11-08 21:17:03 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:17:03 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-08 21:17:07 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:17:07 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:17:07 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:17:07 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:17:07 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:17:07 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:17:09 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:17:09 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:17:09 INFO  Results:27 - Collected Available links
+2022-11-08 21:18:21 INFO  Results:33 - Clicked on All the links
+2022-11-08 21:18:21 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:18:21 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-08 21:21:24 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:21:24 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:21:25 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:21:26 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:21:26 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:21:26 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:21:27 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:21:27 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:21:27 INFO  Results:27 - Collected Available links
+2022-11-08 21:22:10 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:22:11 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-08 21:22:15 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:22:15 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:22:16 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:22:16 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:22:16 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:22:16 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:22:19 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:22:20 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:22:20 INFO  Results:27 - Collected Available links
+2022-11-08 21:22:29 INFO  Results:33 - Clicked on All the links
+2022-11-08 21:22:29 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:22:29 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-08 21:22:33 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:22:33 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:22:34 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:22:34 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:22:34 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:22:34 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:22:37 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:22:37 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:22:37 INFO  Results:27 - Collected Available links
+2022-11-08 21:23:37 INFO  Results:33 - Clicked on All the links
+2022-11-08 21:23:37 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:23:37 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-08 21:23:42 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:23:42 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:23:42 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:23:42 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:23:42 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:23:42 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:23:46 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:23:46 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:23:46 INFO  Results:27 - Collected Available links
+2022-11-08 21:23:59 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:23:59 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-08 21:24:03 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-08 21:24:03 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-08 21:24:03 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-08 21:24:03 INFO  DPages:20 - entered value in the textbox
+2022-11-08 21:24:03 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-08 21:24:03 INFO  DPages:31 - Clicked on enter button
+2022-11-08 21:24:05 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-08 21:24:06 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-08 21:24:06 INFO  Results:27 - Collected Available links
+2022-11-08 21:24:50 INFO  Results:33 - Clicked on All the links
+2022-11-08 21:24:50 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-08 21:24:50 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-20 11:45:58 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-20 11:45:58 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-20 11:45:59 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-20 11:45:59 INFO  DPages:20 - entered value in the textbox
+2022-11-20 11:45:59 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-20 11:45:59 INFO  DPages:31 - Clicked on enter button
+2022-11-20 11:46:03 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-20 11:46:03 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
