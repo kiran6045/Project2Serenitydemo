@@ -114,3 +114,25 @@
 2022-11-08 21:24:50 INFO  Results:33 - Clicked on All the links
 2022-11-08 21:24:50 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
 2022-11-08 21:24:50 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-20 11:45:58 INFO  NavigateTo:17 - google browser Opened successfully
+2022-11-20 11:45:58 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-20 11:45:59 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-20 11:45:59 INFO  DPages:20 - entered value in the textbox
+2022-11-20 11:45:59 INFO  EndUsersSteps:18 - user called to enter the value in textbox
+2022-11-20 11:45:59 INFO  DPages:31 - Clicked on enter button
+2022-11-20 11:46:03 INFO  EndUsersSteps:24 - user called to click after entering
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-20 11:46:03 INFO  EndUsersSteps:30 - user called to click on all the links available in Page after entering
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-20 11:46:03 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:31 -  opened google browser successfully
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:39 - data is read from excel
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:49 - Entered required data and clicked enter successfully
+2022-11-20 11:46:04 INFO  GooglePageStepDefinitions:58 - Executed succesfully after clicking on all the links
