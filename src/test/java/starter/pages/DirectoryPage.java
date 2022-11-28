@@ -6,11 +6,17 @@ import net.thucydides.core.annotations.Step;
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.support.FindBy;
+import starter.utility.Elementutil;
+
+import java.util.List;
+import java.util.stream.Collectors;
 
 public class DirectoryPage extends PageObject {
 
     static final Logger log = Logger.getLogger(LoginPage.class);
 
+
+Elementutil elementutil = new Elementutil();
     @FindBy(xpath = "//button[@class='oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space']")
     private static WebElementFacade submitbutton;
 
@@ -19,7 +25,7 @@ public class DirectoryPage extends PageObject {
     private static WebElementFacade directorylink;
     //
 
-    @FindBy(xpath = "//div[@class='oxd-grid-4']//following::p[@class='oxd-text oxd-text--p orangehrm-directory-card-header --break-words'][1]")
+    @FindBy(xpath = "//div[@class='oxd-grid-4']//following::p[@class='oxd-text oxd-text--p orangehrm-directory-card-header --break-words']")
     private static WebElementFacade employename;
 
     ////div[@class='orangehrm-horizontal-padding orangehrm-vertical-padding']/span
@@ -44,29 +50,53 @@ public class DirectoryPage extends PageObject {
     }
 
     @Step
-    public String enterEmployeeName() {
-        String value =null;
-        try {
+    public boolean getEmployeeName() {
 
-          value=  employename.getText();
+        try {
+//            List<String> list=findAll("//div[@class='oxd-grid-4']//following::p[@class='oxd-text oxd-text--p orangehrm-directory-card-header --break-words']").stream()
+//                    .map(WebElementFacade::getText)
+//                    .collect(Collectors.toList());
+
+            List<String> list= elementutil.findelements("//div[@class='oxd-grid-4']//following::p[@class='oxd-text oxd-text--p orangehrm-directory-card-header --break-words']");
+
+         for (int i=0;i< list.size();i++)
+         {
+             if(list.get(i).equalsIgnoreCase("Odis Adalwin"))
+             {
+                 return true;
+             }
+         }
 
         } catch (Exception e) {
-            Assert.assertTrue("unable to enter employee  " + e, false);
+            Assert.assertTrue("unable to get employee  " + e, false);
         }
-        return value;
+
+        return false;
     }
 
     @Step
-    public String getrecordsfetched() {
-
-        String employenamedesign=null;
+    public boolean getrecordsfetched() {
 
         try {
-            employenamedesign= designation.getText();
+//            List<String> list=findAll("//div[@class='oxd-grid-3']//following::p[@class='oxd-text oxd-text--p orangehrm-directory-card-subtitle --break-words']").stream()
+//                    .map(WebElementFacade::getText)
+//                    .collect(Collectors.toList());
+
+            List<String> list= elementutil.findelements("//div[@class='oxd-grid-3']//following::p[@class='oxd-text oxd-text--p orangehrm-directory-card-subtitle --break-words']");
+
+
+            for (int i=0;i< list.size();i++)
+            {
+                if(list.get(i).equalsIgnoreCase("Chief Technical Officer"))
+                {
+                    return true;
+                }
+            }
 
         } catch (Exception e) {
-            Assert.assertTrue("unable to fetch data " + e, false);
+            Assert.assertTrue("unable to get employee designation  " + e, false);
         }
-        return employenamedesign;
+
+        return false;
     }
 }
