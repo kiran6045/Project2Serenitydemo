@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="OrangehrmPage Demo" skipped="0" tests="3" time="36.44" timestamp="2022-11-28 06:20:15"><testcase name="click on Admin and validate records"/><testcase name="click on PIM and add the employee"/><testcase name="click on directory and validate the employee"/></testsuite>

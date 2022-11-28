@@ -1,4 +1,1 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"OrangehrmPage Demo","click on Admin and validate records","SUCCESS","2022-11-28T18:20:15.2886124+05:30[Asia/Calcutta]","0.0","15.64"
-"OrangehrmPage Demo","click on PIM and add the employee","SUCCESS","2022-11-28T18:20:30.9302347+05:30[Asia/Calcutta]","0.0","11.83"
-"OrangehrmPage Demo","click on directory and validate the employee","SUCCESS","2022-11-28T18:20:42.7580062+05:30[Asia/Calcutta]","0.0","8.97"
