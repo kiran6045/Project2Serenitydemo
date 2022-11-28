@@ -9,6 +9,7 @@
         <module name="serenity-cucumber4-smoketests" />
         <module name="mainfile2" />
         <module name="serenityBDDDatadriven" />
+        <module name="P4serenityBDD" />
       </profile>
     </annotationProcessing>
   </component>

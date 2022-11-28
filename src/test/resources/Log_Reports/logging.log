@@ -171,3 +171,22 @@
 2022-11-28 20:27:40 INFO  OrangehrmStepDefinition:105 - clicked on Directory button successfully
 2022-11-28 20:27:42 INFO  OrangehrmStepDefinition:113 - employee odis adalwin is validated sucessfully
 2022-11-28 20:27:42 INFO  OrangehrmStepDefinition:123 - employee odis adalwin is CTO validated sucessfully
+2022-11-28 20:49:05 INFO  OrangehrmStepDefinition:38 - orange home page displayed successfully
+2022-11-28 20:49:06 INFO  OrangehrmStepDefinition:46 - entered username and passed successfully
+2022-11-28 20:49:07 INFO  OrangehrmStepDefinition:48 - clicked on login button succesfully
+2022-11-28 20:49:08 INFO  OrangehrmStepDefinition:55 - Dashboard validation successfully
+2022-11-28 20:49:09 INFO  OrangehrmStepDefinition:62 - clicked on admin button successfully
+2022-11-28 20:49:13 INFO  OrangehrmStepDefinition:67 - user_role  entered sucessfully
+2022-11-28 20:49:13 INFO  OrangehrmStepDefinition:76 - user_role validated  sucessfully in admin page
+2022-11-28 20:49:19 INFO  OrangehrmStepDefinition:38 - orange home page displayed successfully
+2022-11-28 20:49:19 INFO  OrangehrmStepDefinition:46 - entered username and passed successfully
+2022-11-28 20:49:21 INFO  OrangehrmStepDefinition:48 - clicked on login button succesfully
+2022-11-28 20:49:23 INFO  OrangehrmStepDefinition:83 - clicked on pim button successfully
+2022-11-28 20:49:25 INFO  OrangehrmStepDefinition:90 - entered  EmployeeName & EmployeeNumber successfully
+2022-11-28 20:49:25 INFO  OrangehrmStepDefinition:97 - clicked on save button successfully in pim page
+2022-11-28 20:49:30 INFO  OrangehrmStepDefinition:38 - orange home page displayed successfully
+2022-11-28 20:49:31 INFO  OrangehrmStepDefinition:46 - entered username and passed successfully
+2022-11-28 20:49:32 INFO  OrangehrmStepDefinition:48 - clicked on login button succesfully
+2022-11-28 20:49:33 INFO  OrangehrmStepDefinition:105 - clicked on Directory button successfully
+2022-11-28 20:49:35 INFO  OrangehrmStepDefinition:113 - employee odis adalwin is validated sucessfully
+2022-11-28 20:49:35 INFO  OrangehrmStepDefinition:123 - employee odis adalwin is CTO validated sucessfully
