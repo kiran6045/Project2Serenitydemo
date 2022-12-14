@@ -164,7 +164,7 @@
                 <version>2.22.1</version>
                 <configuration>
                     <includes>
-                        <include>CucumberTestSuit.java</include>
+                        <include>CucumberTestSuite.java</include>
 
                     </includes>
                     <systemPropertyVariables>
